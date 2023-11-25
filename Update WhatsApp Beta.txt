@@ -1,5 +1,5 @@
 {
- "version":"4.0",   
+ "version":"5.0",   
   "force_update":"false",    
   "title":"Base Atualizada para 2.23.25.9 🛠",
   "description":" Novo: Novas cores e ícones\n Novo: Filtro de status\n Novo: Media settings melhorado",
