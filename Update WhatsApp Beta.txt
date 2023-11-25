@@ -2,6 +2,6 @@
  "version":"4.0",   
   "force_update":"false",    
   "title":"Base Atualizada para 2.23.20.21 🛠",
-  "description":" Novo: Salvar recurso para novas mensagens de vídeo\n Novo: Ativado adicionar mais de uma conta\n Novo: Change font, agora pode escolher font diretamente do armazenamento do celular\n Entre outras coisas",
-  "download":"https://telegra.ph/TMWhatsApp-10-08"
+  "description":" Novo: Novas cores e ícones\n Novo: Filtro de status\n Novo: Media settings melhorado",
+  "download":"https://telegra.ph/WhatsApp-Beta-11-25"
 }
