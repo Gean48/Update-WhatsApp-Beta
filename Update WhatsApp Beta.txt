@@ -1,7 +1,7 @@
 {
  "version":"5.0",   
   "force_update":"false",    
-  "title":"**Base Atualizada para 2.23.25.15**",
-  "description":" #Novas funções listadas abaixo:\n Opção ativar tela incial antiga\n Opção para ativar cores antigas\n Contador de mensagens em grupos\n Fixar mensagens\n Criar perfil @nomedeusuário, aguardar ativação do servidor\n Reagir ao clicar duas vezes na bolha\n Limite de status para 7 minutos\n Melhoria no media settings\n Foto de perfil na tela incial",
+  "title":"🚨 Base Atualizada para 2.23.25.15 🚨",
+  "description":"🌟 Novas funções listadas abaixo: 🌟\n Opção ativar tela incial antiga\n Opção para ativar cores antigas\n Contador de mensagens em grupos\n Fixar mensagens\n Criar perfil @nomedeusuário, aguardar ativação do servidor\n Reagir ao clicar duas vezes na bolha\n Limite de status para 7 minutos\n Melhoria no media settings\n Foto de perfil na tela incial",
   "download":"https://telegra.ph/WhatsApp-Beta-11-25"
 }
